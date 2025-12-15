@@ -151,8 +151,3 @@ This project demonstrates how to:
 - Deploy and detect malware
 - Use Splunk for threat monitoring
 
-> **Note:** This is for educational purposes only. Do not use these techniques for unauthorized activities.
-
-### 📌 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/ahinsunil-m) 
-- [GitHub](https://github.com/xAHIINX00) 
